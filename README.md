@@ -33,12 +33,9 @@
 
 <h2>🎨 Screenshots</h2>
 
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/a55f86fb-41c8-40bd-856d-dc017a25b1e2)
-" alt="Screenshot of Estef's Tracker"></p>
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/59552f7c-2231-4be1-b14d-4f9934a5deb2)
-" alt="Screenshot of Form"></p>
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/2ef6bef0-d201-4d6c-95b2-6f9bd7733ed7)
-" alt="Screenshot of Tracker"></p>
+<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/a55f86fb-41c8-40bd-856d-dc017a25b1e2)" alt="Screenshot of Estef's Tracker"></p>
+<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/59552f7c-2231-4be1-b14d-4f9934a5deb2)" alt="Screenshot of Form"></p>
+<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/2ef6bef0-d201-4d6c-95b2-6f9bd7733ed7)" alt="Screenshot of Tracker"></p>
 
 <h2>📱 Responsive Design</h2>
 
@@ -71,7 +68,7 @@
 
 <h2>📧 Contact</h2>
 
-<p>For any inquiries or feedback, please reach out to me at <a href="mailto:eri022004@hotmail.com">your-email@example.com</a>.</p>
+<p>For any inquiries or feedback, please reach out to me at <a href="mailto:eri022004@hotmail.com">eri022004@hotmail.com</a>.</p>
 
 <hr>
 
