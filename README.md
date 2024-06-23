@@ -33,10 +33,11 @@
 
 <h2>🎨 Screenshots</h2>
 
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/a55f86fb-41c8-40bd-856d-dc017a25b1e2)" alt="Screenshot of Estef's Tracker"></p>
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/59552f7c-2231-4be1-b14d-4f9934a5deb2)" alt="Screenshot of Form"></p>
-<p><img src="![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/2ef6bef0-d201-4d6c-95b2-6f9bd7733ed7)" alt="Screenshot of Tracker"></p>
+![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/59552f7c-2231-4be1-b14d-4f9934a5deb2)
 
+![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/2ef6bef0-d201-4d6c-95b2-6f9bd7733ed7)
+
+![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/935fb46b-179d-4d10-8e82-862fc4e8a344)
 <h2>📱 Responsive Design</h2>
 
 <p>The application is fully responsive and adjusts beautifully to different screen sizes, ensuring a great user experience on both desktop and mobile devices.</p>
