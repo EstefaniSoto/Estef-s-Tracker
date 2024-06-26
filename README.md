@@ -1,6 +1,6 @@
-<h1>📊 Estef's Tracker</h1>
+<h1>📊 Potaxie Tracker</h1>
 
-<p>Welcome to <strong>Estef's Tracker</strong>! This is a simple and responsive application built with React and Tailwind CSS, designed to help you keep track of your calorie intake and expenditure.</p>
+<p>Welcome to <strong>Potaxie Tracker</strong>! This is a simple and responsive application built with React and Tailwind CSS, designed to help you keep track of your calorie intake and expenditure.</p>
 
 <h2>🚀 Features</h2>
 
@@ -33,8 +33,10 @@
 
 <h2>🎨 Screenshots</h2>
 
-![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/633b69cf-503b-48ee-b20e-9c6d0a83e810)
-![image](https://github.com/EstefaniSoto/Estef-s-Tracker/assets/107286035/f21fddd6-4ee9-46a6-9236-6745e1498656)
+![image](https://github.com/EstefaniSoto/Potaxie-Tracker/assets/107286035/4d6605b1-ff89-453c-932f-54ff95a449cb)
+
+![image](https://github.com/EstefaniSoto/Potaxie-Tracker/assets/107286035/e77dddc1-db74-4d90-9345-bacf5c943d3d)
+
 
 
 
@@ -44,13 +46,13 @@
 
 <h2>🌐 Live Demo</h2>
 
-<p>Check out the live demo <a href="https://estefstracker.netlify.app/">here</a>.</p>
+<p>Check out the live demo <a href="https://potaxietracker.netlify.app/">here</a>.</p>
 
 <h2>🛠️ Installation and Setup</h2>
 
 <ol>
   <li><strong>Clone the repository</strong>:
-    <pre><code>git clone https://github.com/EstefaniSoto/Estef-s-Tracker </code></pre>
+    <pre><code>git clone https://github.com/EstefaniSoto/Potaxie-Tracker</code></pre>
   </li>
   <li><strong>Navigate to the project directory</strong>:
     <pre><code>cd calories-tracker</code></pre>
@@ -81,7 +83,7 @@
 
 <ul>
   <li><a href="https://github.com/EstefaniSoto/Estef-s-Tracker">Project Repository</a></li>
-  <li><a href="https://estefstracker.netlify.app/">Live Demo</a></li>
+  <li><a href="https://potaxietracker.netlify.app/">Live Demo</a></li>
 </ul>
 
 <hr>
