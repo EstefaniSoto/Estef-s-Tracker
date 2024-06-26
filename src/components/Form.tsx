@@ -57,7 +57,7 @@ useEffect(() => {
         }
   return (
     <>
-    <form className='bg-gray-50 rounded-xl p-5 space-y-5 border-gray-800 border-solid border-4'
+    <form className='bg-gray-50 rounded-xl p-5 space-y-5 border-gray-800 border-solid border-4 mx-8'
     onSubmit={formSubmit}>
         <div className='grid grid-cols-1 gap-3 '>
             <label htmlFor="category" className='font-bold'>Category:</label>
@@ -73,9 +73,9 @@ useEffect(() => {
         </div>
 
         <div className='grid grid-cols-1 gap-3 '>
-            <label htmlFor="name" className='font-bold'>Activity:</label>
+            <label htmlFor="name" className='font-bold'>{activity.category === 1? 'Food:' : 'Activity:'}</label>
                 <input type="text" className='p-2 rounded-lg border-slate-200 border' id='name'
-                placeholder='Ex. Running, jumping, meat, chocolate etc...' value={activity.name}
+                placeholder={activity.category === 1? 'Ex. Chocolate, Apple, French Fries...' : 'Ex. Running, jumping, kickboxing...'} value={activity.name}
                 onChange={handleChange} />
         </div>
 

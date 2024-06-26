@@ -22,7 +22,7 @@ const categoryName = useMemo(() => (category: Activity['category']) => categorie
     
     activity.map(act => (
 
-      <div className="bg-white relative md:flex flex-col justify-between gap-3 p-5 w-5/12 space-y-10 md:space-y-0"
+      <div className="bg-white relative md:flex flex-col justify-between gap-3 p-5 md:space-y-0 mx-10 lg:mx-0"
       key={act.id}>
       <div className= { act.category === 1? `bg-lime-400 absolute top-2 py-2 px-8 -left-4 text-white font-bold` : `bg-orange-400 absolute top-2 py-2 px-5 -left-4 text-white font-bold`}>{categoryName(+act.category)}</div>
       <div>

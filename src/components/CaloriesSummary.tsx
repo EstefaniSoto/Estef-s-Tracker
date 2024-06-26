@@ -13,7 +13,7 @@ export default function CaloriesSummary({activity} : CaloriesSummaryProps) {
     return (
     <>
     <div className='bg-green-100'>
-        <div className='md:flex md:flex-row flex-col justify-between text-center items-center py-14 md:px-96 space-y-14 md:space-x-0'>
+        <div className='md:flex md:flex-row flex-col justify-between space-y-10 text-center max-w-4xl mx-auto py-14 px-10 md:space-y-0'>
             
             
             <CaloriesDisplay
